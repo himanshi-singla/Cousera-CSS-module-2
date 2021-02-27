@@ -1,2 +1,2 @@
-# Cousera-CSS-module-2
-The front-end web project using CSS.
+# Cousera-Front-end-WebD
+The front-end web development projects.
